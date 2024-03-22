@@ -1,0 +1,29 @@
+
+.patientinfo{
+    color: #289f5d;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    align-items: center;
+}
+.maintable{
+    position: absolute;
+    border-collapse: collapse;
+    height: 30px;
+    width: 1450px;
+    margin-top: 5px;
+    top: 120px;
+    left: 50px;
+}
+
+th, td {
+    border: 1px solid #021946;
+    text-align: left;
+    padding: 8px;
+    height: 20px;
+    width: 20px;
+}
+
+th {
+    background-color: #f2f2f2;
+}

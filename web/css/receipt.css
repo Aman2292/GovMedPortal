@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+body {
+  background-color: #53c89b;
+  height: 100vh;
+  display:grid;
+  font-family: Poppins;
+  overflow: hidden;
+}
+
+.Userstitle {
+  align-items: center;
+  justify-content: center;
+  padding-left: 350px;
+  color: #00172D;
+  font-family: poppins;
+  background-color:#53c89b;
+}
+.main {
+    
+  height: 450px;
+  margin-left: 100px;
+}
+
+.name {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 130px;
+  left: 180px;
+  font-family: Poppins;
+}
+.user-name {
+  font-size: 20px;
+  color: rgb(48, 195, 87);
+  position: absolute;
+  top: 130px;
+  left: 260px;
+  font-family: Poppins;
+}
+.aadharcard {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 200px;
+  left: 180px;
+}
+.user-aadharcard {
+  font-size: 20px;
+  color: rgb(48, 195, 87);
+  position: absolute;
+  top: 200px;
+  left: 360px;
+}
+.user-doctor-name {
+  font-size: 20px;
+  color: rgb(48, 195, 87);
+  position: absolute;
+  top: 280px;
+  left: 350px;
+}
+.doctor-name {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 270px;
+  left: 180px;
+}
+.user-doctor-name {
+  font-size: 20px;
+  color: rgb(48, 195, 87);
+  position: absolute;
+  top: 270px;
+  left: 350px;
+}
+.ward-no {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 340px;
+  left: 180px;
+}
+.user-ward-no {
+  font-size: 20px;
+  color: rgb(48, 195, 87);
+  position: absolute;
+  top: 340px;
+  left: 305px;
+}
+.your-queue {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 130px;
+  left: 650px;
+}
+.user-your-queue {
+  font-size: 20px;
+  color: rgb(48, 195, 87);
+  position: absolute;
+  top: 170px;
+  left: 730px;
+}
+.floor {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 290px;
+  left: 710px;
+}
+.user-floor {
+  font-size: 20px;
+  color: rgb(48, 195, 87);
+  position: absolute;
+  top: 330px;
+  left: 730px;
+}
+#downloadButton {
+  position: absolute;
+  top: 290px;
+  left: 920px;
+  display: flex;
+  text-decoration: none;
+  color: #009f98;
+  background-color: #11263d;
+  padding: 10px 10px 10px 10px;
+  border-radius: 50px;
+}
+.homebutton {
+  position: absolute;
+  top: 300px;
+  left: 20px;
+  display: flex;
+  text-decoration: none;
+  color: #009f98;
+  background-color: #11263d;
+  padding: 10px 10px 10px 10px;
+  border-radius: 50px;
+}

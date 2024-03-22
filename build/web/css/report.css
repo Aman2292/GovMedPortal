@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+.box {
+  background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    border-radius: 15px;
+  border: 2px solid rgba(255, 255, 255, 0.18);
+  position: absolute;
+  max-width: 400px;
+  top: 220px;
+  left: 600px;
+  margin: 20px auto;
+  padding: 20px;
+}
+label {
+  text-align: left;
+  display: block;
+  margin-bottom: 5px;
+  color: #ffffff;
+}
+
+input {
+  background-color: #253341;
+  border-radius: 15px;
+  border: #1d783b;
+  width: 100%;
+  color: #f4f4f4;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+}
+
+.view{
+  position: relative;
+  top: 5px;
+  background-color: #0c1d2e;
+  text-decoration: none;
+  color: aliceblue;
+  padding: 10px ;
+  height: 40px;
+  width: 105px;
+  left: 90px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 18px;
+}
+.view:hover{
+  position: relative;
+  top: 5px;
+  background-color: #53c89b;
+  text-decoration: none;
+  color: #11263d;
+  padding: 10px ;
+  height: 40px;
+  width: 105px;
+  left: 90px;
+  border-radius: 25px;
+  font-size: 18px;
+}
+.h2 {
+    color: rgb(14, 18, 61);
+    z-index: 1;
+  position: absolute;
+  top: 170px;
+  left: 620px;
+}
